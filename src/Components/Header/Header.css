@@ -1,0 +1,37 @@
+.dgSpf-header__top {
+  background-color: var(--clr-accent);
+  /* background: linear-gradient(to left top, #FFA80000 0%, #FFFAEF 100%), radial-gradient(#FFF1D5BA 0%, #bb9e7c24 100%); */
+  padding: 6px 0;
+}
+.dgSpf-header__buttons .dgSpf-button {
+  height: 46px;
+}
+.dgSpf-header__search .form-control {
+  border-radius: 0px;
+  background-color: transparent;
+  border: transparent;
+  padding: 0;
+  font-size: 16px;
+  color: #1d1d1d;
+  font-family: var(--ff-body);
+  box-shadow: none;
+}
+.dgSpf-header__search .form-control::placeholder {
+  color: #3b3b3b;
+  opacity: 1;
+  font-size: 14px;
+}
+.dgSpf-header__search {
+  background-color: var(--clr-white);
+  border: 2px solid var(--clr-white-600);
+  padding: 6px 5px 6px 20px;
+  font-size: 16px;
+  border-radius: 50px;
+}
+.dgSpf-header__search .search-btn {
+  background-color: transparent;
+  border: none;
+  padding: 5px 8px 5px 0;
+  font-size: 14px;
+  color: var(--clr-accent);
+}
