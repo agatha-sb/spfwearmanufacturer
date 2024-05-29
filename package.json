@@ -2,7 +2,7 @@
   "name": "spfwear_manufacturer",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://agatha-sb.github.io/spfwearmanufacturer",
+  "homepage": "https://agatha-sb.github.io/",
   "type": "module",
   "scripts": {
     "dev": "vite",
